@@ -75,8 +75,18 @@ main{
 main h1{
   font-size: 58px;
   color: #133B4F;
+  padding-bottom: 10px;
 }
 main h2{
   font-size: 30px;
   color:#FCA70C;
+  font-weight: 400;
+  letter-spacing: 9px;
+  padding-bottom: 7px;
+}
+main p{
+  font-size: 20px;
+  font-weight: 400;
+  color: #333;
+  line-height: 32.5px;
 }
