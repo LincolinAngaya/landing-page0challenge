@@ -3,9 +3,36 @@
   padding: 0;
   box-sizing: border-box;
 }
+body{
+  align-items: center;
+  justify-content: center;
+  margin: 0px 29px;
+}
+
 header{
-  background: whitesmoke;
+  background: gray;
   height: 80px;
   display: flex;
   justify-content: space-around;
+  align-items: center;
+}
+
+.logo img{
+  width: 250px;
+  
+}
+ul{
+  display: flex;
+  list-style: none;
+  margin-right: 10%;
+  align-items: center;
+  justify-content: center;
+}
+ul li{
+  padding: 25px;
+}
+ul li a{
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
 }
