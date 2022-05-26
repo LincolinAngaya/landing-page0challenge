@@ -89,4 +89,34 @@ main p{
   font-weight: 400;
   color: #333;
   line-height: 32.5px;
+  margin-bottom: 25px;
+}
+.btn{
+  text-decoration: none;
+  color: #133B4F;
+  border: 2px solid #333;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+.btn:hover{
+  background: #fff;
+  color: black;
+  transition: ease 0.3s all;
+}
+.signin-btn{
+  text-decoration: none;
+  color: #133B4F;
+  border: 2px solid #333;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+.signin-btn:hover{
+  color:#fff;
+  transition: ease 0.3s all;
 }
