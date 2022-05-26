@@ -72,3 +72,7 @@ main{
   max-width: 800px;
   
 }
+main h1{
+  font-size: 58px;
+  color: #133B4F;
+}
